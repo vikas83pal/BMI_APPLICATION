@@ -9,7 +9,10 @@ This is an Android application to calculate Body Mass Index (BMI). The app takes
 - Display the BMI result and a corresponding health message.
 
 ## Screenshots
-[ScreenShot 1](screenshots/screenshot1.png)
+
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+
 ## Installation
 
 To install the application, download the APK file from the link below and install it on your Android device.
