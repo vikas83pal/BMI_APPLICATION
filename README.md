@@ -10,7 +10,7 @@ This is an Android application to calculate Body Mass Index (BMI). The app takes
 
 ## Screenshots
 
-<img src="screenshots/screenshot1.jpg" alt="Screenshot 1" width="300"/>
+<img src="screenshots/screenshot1.jpg" alt="Screenshot 1" width="300"/><br><br>
 <img src="screenshots/screenshot2.jpg" alt="Screenshot 2" width="300"/>
 
 ## Installation
