@@ -19,7 +19,7 @@ To install the application, download the APK file from the link below and instal
 
 ### Download APK
 
-[Download the APK](https://github.com/vikas83pal/BMI_APPLICATION/blob/master/apk/app-debug.apk)
+[Download the APK](https://github.com/vikas83pal/BMI_APPLICATION/raw/master/apk/app-debug.apk)
 
 ## Usage
 
